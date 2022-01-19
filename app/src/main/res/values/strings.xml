@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreeterApp</string>
+    <string name="hint">Type your text</string>
+    <string name="button">Greet</string>
+</resources>
